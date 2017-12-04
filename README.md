@@ -1,1 +1,0 @@
-Simple website project made in college. 
